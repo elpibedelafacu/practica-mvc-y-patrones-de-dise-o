@@ -1,2 +1,9 @@
 C:\Users\Usuario\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+C:\Users\idra15\Desktop\mvc\practica-mvc-y-patrones-de-dise-o\ConsoleApp37\obj\Debug\ConsoleApp37.pdb
