@@ -1,0 +1,2 @@
+C:\Users\Usuario\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
